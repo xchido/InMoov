@@ -1,0 +1,40 @@
+Here is the list of parts and the number of prints needed for 1 right hand and forarm:
+
+1x Thumb
+1x Index
+1x Majeure
+1x Auriculaire
+1x Pinky
+1x Bolt_entretoise
+1x Wristlarge
+1x Wristsmall
+1x topsurface
+1x coverfinger
+1x robcap3
+1x robpart2
+1x robpart3
+1x robpart4
+1x robpart5
+Here is the list of parts and the number of prints needed for 1 right wrist:
+
+1x rotawrist2
+1x rotawrist1
+1x rotawrist3
+1x WristGears
+1x CableHolderWrist
+Print wristarge, wristsmall, Thumb, with an infill of 30%, 3 shells, best with no support, no raft.
+
+Print  index3, majeure3, ringfinger3, auriculaire3, with an infill of 30%, 2 shell, best with no support, no raft.
+Print robpart2, robpart3, robpart4, robpart5 with an infill of 30%, 3 shell, best with raft, no support.
+Print coverfinger with an infill of 30%, 3 shells, with support. To get the best printing result on the covers is to print them standing up, instead laying them flat.
+
+The wrist parts are good printed with an infill of 30%, 3 shells, with no raft, no support. The Gears of the wrist should be printed with the best quality your printer can give you.
+
+Big bolts are now printable. (Strong enough for tests and even more!)
+You can replace the 16x3mm for the fingers with pins/pegs of filament instead of bolts, it’s cheap, easy, and strong enough.
+It was a suggestion of FreddyA.
+
+1x8mmx8cm bolt  to attach wristlarge to wristsmall.
+1x8mmx4cm bolt to attach wriarge to thumbbottom.
+1x8mmx6cm bolt  for to attach wriarge to robpart1.
+16x3mmx2cm bolts  for all fingers hinges(I have recut each bolt to adapt to finger width)
